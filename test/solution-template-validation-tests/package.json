@@ -23,13 +23,14 @@
         "fs-readdir-recursive": "^1.0.0",
         "grunt-mocha-cli": "^2.0.0",
         "it-each": "^0.3.1",
-        "jsonlint": "1.6.2",
         "json-parser": "^1.1.5",
+        "jsonlint": "1.6.2",
         "line-column": "^1.0.2",
         "mocha": "^2.3.3",
+        "mocha-clean": "^1.0.0",
+        "mochawesome": "^2.3.1",
         "recursive-readdir": "^2.2.1",
         "should": "^13.1.2",
-        "mochawesome": "^2.3.1",
-        "mocha-clean": "^1.0.0"
+        "xmlhttprequest": "^1.8.0"
     }
 }
